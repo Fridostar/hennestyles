@@ -1,0 +1,38 @@
+h1{
+    color:black;
+    text-align:center ;
+    text-decoration: underline;
+    font-family: Algerian;
+  }
+  .imag{
+    display: flex;
+    justify-content: space-between;
+  }
+  h2{
+    color: #e8491d;
+    text-decoration: underline;
+    font-size: 60px;
+    text-align: center;
+    font-family: Algerian;
+  }
+  i{
+      color: red;
+  }
+  p{
+      color: black;
+      font-family: Algerian ;
+      text-align: center;
+  }
+  .copy{
+    color: white;
+  }
+  footer{
+    color: black;
+  }
+  .frido{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .right{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+  }
